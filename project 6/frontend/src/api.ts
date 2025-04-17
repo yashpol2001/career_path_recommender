@@ -2,7 +2,7 @@ import axios from 'axios';
 import { ApiResponse } from './types';
 
 // ✅ Load from .env (defined as VITE_API_URL)
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_URL = import.meta.env.VITE_API_URL || 'https://project-backend-aaqe.onrender.com';
 console.log("Calling API:", API_URL);
 
 export const api = {
