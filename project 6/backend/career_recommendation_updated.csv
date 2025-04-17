@@ -1,0 +1,1060 @@
+﻿Programming Language,Career Path,Description,Beginner Courses,Intermediate Courses,Advanced Courses,Beginner Recommended Certifications,Intermediate Recommended Certifications,Advanced Recommended Certifications,Beginner Recommended Projects,Intermediate Recommended Projects,Advance Recommended Projects
+Python,Data Scientist,"Data Scientists leverage data to extract insights, build predictive models, and solve complex business problems using statistical analysis, machine learning, and data visualization. They require proficiency in programming, mathematics, and domain-specific knowledge to interpret large datasets and drive decision-making.","Datacamp - Python for Data Science Fundamentals (https://www.datacamp.com/courses/intro-to-python-for-data-science)
+Coursera - Python for Data Analysis and Visualization (https://www.coursera.org/learn/python-data-analysis-visualization)
+freeCodeCamp - Data Analysis with Python (https://www.freecodecamp.org/learn/data-analysis-with-python/)
+Udemy - Python for Data Science and Machine Learning (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+LinkedIn Learning - Python Essentials (https://www.linkedin.com/learning/python-essential-training-2018)
+edX - Python Basics for Data Science (https://www.edx.org/learn/python/ibm-python-basics-for-data-science)
+
+Additional Skills:
+SQL: Coursera - SQL for Data Science (https://www.coursera.org/learn/sql-for-data-science)
+Statistics: Khan Academy - Statistics & Probability (https://www.khanacademy.org/math/statistics-probability)","
+Coursera - Machine Learning with Python (https://www.coursera.org/learn/machine-learning-with-python)
+freeCodeCamp - Machine Learning with Python (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+Udemy - Python for Data Science and Machine Learning (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+Coursera - Data Analysis with Python (https://www.coursera.org/learn/data-analysis-python)
+LinkedIn Learning - Data Science Foundations (https://www.linkedin.com/learning/data-science-foundations-fundamentals-5)
+DataCamp - Intermediate Python (https://www.datacamp.com/courses/intermediate-python)
+
+
+Additional Skills:
+TensorFlow: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (https://www.coursera.org/learn/introduction-tensorflow)
+Tableau: Tableau Public Training (https://www.tableau.com/learn/training)","
+Deep Learning Specialization (https://www.deeplearning.ai/courses/deep-learning-specialization/)
+Coursera - Neural Networks and Deep Learning (https://www.coursera.org/learn/neural-networks-deep-learning)
+freeCodeCamp - Machine Learning with Python  - Tensorflow (https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
+Udemy - Data Science: Deep Learning in Python (https://www.udemy.com/course/data-science-deep-learning-in-python/)
+edX - Deep Learning Fundamentals with Keras (https://www.edx.org/learn/deep-learning/ibm-deep-learning-fundamentals-with-keras)
+LinkedIn Learning - Advanced Python (https://www.linkedin.com/learning/advanced-python)
+
+
+Additional Skills:
+MLOps: Coursera - Machine Learning Engineering for Production (MLOps) Specialization (https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)","Python Institute PCAP (Certified Associate in Python Programming)
+Google Data Analytics Professional Certificate (Beginner Modules)
+Microsoft Technology Associate: Introduction to Programming Using Python","IBM Data Science Professional Certificate
+Data Science Professional Certificate (Coursera)
+Tableau Desktop Specialist","TensorFlow Developer Certificate
+Microsoft Certified: Azure Data Scientist Associate
+Google Professional Data Engineer","Basic Data Cleaning Script
+Simple Sales Data Visualization
+Exploratory Data Analysis on a Public Dataset","Customer Segmentation Model
+Predictive Sales Forecasting
+Sentiment Analysis on Social Media Data","Fraud Detection System
+Time Series Forecasting for Stock Prices
+Recommendation Engine"
+Python,Web Developer,"Web Developers build and maintain websites and web applications using Python frameworks like Django or Flask, focusing on backend logic, APIs, and user interfaces. They combine programming skills with web technologies to create functional, user-friendly online platforms.","
+Udemy - Python Web Programming (https://www.udemy.com/course/python-web-programming/)
+freeCodeCamp - Python Web Dev Basics (https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+Coursera - Web Development with Python (https://www.coursera.org/learn/microsoft-web-development-with-python)
+Udemy - Python Web Intro (https://www.udemy.com/course/the-python-mega-course/)
+LinkedIn Learning - Web Dev Essentials (https://www.linkedin.com/learning/python-for-web-development)
+edX - Intro to Web Dev (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+
+
+Additional Skills:
+HTML: W3Schools - HTML Tutorial (https://www.w3schools.com/html/)
+CSS: freeCodeCamp - CSS Basics (https://www.freecodecamp.org/learn/responsive-web-design/)","
+Django Web Framework (https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+freeCodeCamp - Django Tutorial (https://www.freecodecamp.org/learn/scientific-computing-with-python/#django)
+Udemy - Django Basics (https://www.udemy.com/course/django-for-beginners/)
+Coursera - Django Web Framework (https://www.coursera.org/learn/django-web-framework)
+LinkedIn Learning - Django Essentials (https://www.linkedin.com/learning/django-essential-training)
+DataCamp - Django Tutorial: Python Web Development (https://www.datacamp.com/tutorial/web-development-django)
+
+
+Additional Skills:
+JavaScript: freeCodeCamp - JS Basics (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+SQL: Coursera - Databases and SQL for Data Science with Python (https://www.coursera.org/learn/sql-data-science)","
+EDX - Full Stack Python Development (https://talentsprint.com/course/python-full-stack-developer)
+Coursera - The Full Stack (https://www.coursera.org/learn/the-full-stack)
+freeCodeCamp - Full Stack Project (https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+Udemy - Flask Advanced (https://www.udemy.com/course/rest-api-flask-and-python/)
+edX - CS50's Web Programming with Python and JavaScript (https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)
+LinkedIn Learning - Full Stack Python (https://www.linkedin.com/learning/full-stack-web-development-with-flask)
+
+
+Additional Skills:
+REST APIs: freeCodeCamp - API Tutorial (https://www.freecodecamp.org/learn/back-end-development-and-apis/)","Python Institute PCAP (Certified Associate in Python Programming)
+freeCodeCamp Responsive Web Design Certification
+W3Schools HTML Developer Certificate","Django Developer Certificate
+AWS Certified Developer Associate
+freeCodeCamp Back End Development and APIs Certification","Full Stack Developer Certification
+Google Cloud Professional Developer
+Python Web Developer (Udemy)","Personal Portfolio Website
+Simple To-Do List Web App
+Static Blog Page","Blogging Platform with User Login
+Task Management App
+E-commerce Product Listing Page","E-commerce Website with Payment Integration
+Social Media Dashboard
+RESTful API Service"
+Python,AI Engineer,"AI Engineers design and implement artificial intelligence systems, including machine learning models, neural networks, and automation tools. They work on cutting-edge technologies to create intelligent applications that solve real-world problems.","
+EDX - Introduction to AI with Python (https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+Coursera - AI For Everyone (https://www.coursera.org/learn/ai-for-everyone)
+freeCodeCamp - AI with Python (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+Udemy - AI Intro (https://www.udemy.com/course/artificial-intelligence-az/)
+LinkedIn Learning - AI Basics (https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines)
+edX - AI Essentials (https://www.edx.org/course/artificial-intelligence-ai)
+
+
+Additional Skills:
+Mathematics: Khan Academy - Linear Algebra (https://www.khanacademy.org/math/linear-algebra)
+Statistics: Coursera - Statistics with Python Specialization (https://www.coursera.org/specializations/statistics-with-python)","
+Google - Deep Learning with TensorFlow (https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+freeCodeCamp - TensorFlow Tutorial (https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
+Coursera - Deep Learning Basics (https://www.coursera.org/specializations/deep-learning)
+Udemy - TensorFlow Intro (https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+LinkedIn Learning - Deep Learning Foundations (https://www.linkedin.com/learning/tensorflow-working-with-nlp)
+edX - Deep Learning Intro (https://www.edx.org/certificates/professional-certificate/ibm-deep-learning)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/intro-sql)
+Python: DataCamp - Intermediate Python (https://www.datacamp.com/courses/intermediate-python)","Coursera - Advanced AI and MLOps (https://www.coursera.org/specializations/mlops-machine-learning-duke)
+Coursera - Neural Networks (https://www.coursera.org/learn/neural-networks-deep-learning)
+freeCodeCamp - Advanced ML (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+Udemy - Advanced AI (https://www.udemy.com/course/artificial-intelligence-az/)
+edX - Advanced AI Techniques (https://www.edx.org/learn/artificial-intelligence)
+LinkedIn Learning - MLOps Essentials (https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=57121697)
+
+
+Additional Skills:
+Cloud Computing: AWS Training - Intro to AWS (https://aws.amazon.com/training/)","Python Institute PCAP (Certified Associate in Python Programming)
+Coursera - AI For Everyone Certificate
+Microsoft Technology Associate: Introduction to Programming Using Python","TensorFlow Developer Certificate
+IBM Data Science Professional Certificate
+AWS Certified Developer Associate","AI Practitioner
+Deep Learning Engineer
+Google Professional Machine Learning Engineer","Simple Chatbot with Rule-Based Responses
+Basic Image Classifier
+Number Prediction Model","Sentiment Analysis Chatbot
+Handwritten Digit Recognition
+Movie Recommendation System","Autonomous Vehicle Simulation
+Natural Language Processing App
+Real-Time Object Detection System"
+Python,Data Analyst,"Data Analysts collect, process, and analyze data to provide actionable insights for businesses. They use Python to manipulate datasets, create visualizations, and report findings to support strategic decisions.","
+freeCodeCamp - Data Analysis with Python (https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/)
+Coursera - Data Analysis with Python (https://www.coursera.org/learn/data-analysis-with-python)
+Udemy - Python for Data Analysis (https://www.udemy.com/course/data-analysis-with-pandas/)
+LinkedIn Learning - Data Analysis Fundamentals (https://www.linkedin.com/learning/data-analytics-for-business-professionals)
+edX - Data Analytics Basics for Everyone (https://www.edx.org/learn/data-analysis/ibm-data-analytics-basics-for-everyone)
+DataCamp - Intro to Python for Data Analysis (https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+
+Additional Skills:
+SQL: Coursera - SQL for Data Science (https://www.coursera.org/learn/sql-for-data-science)
+Excel: Microsoft - Excel Video Training (https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)","
+Dataquest - Advanced Data Cleaning and Preprocessing (https://www.dataquest.io/course/python-data-cleaning-advanced/)
+freeCodeCamp - Pandas Tutorial (https://www.freecodecamp.org/learn/data-analysis-with-python/#numpy)
+Coursera - Data Analysis with Python (https://www.coursera.org/learn/data-analysis-with-python)
+Udemy - Data Cleaning with Python (https://www.udemy.com/course/data-analysis-with-pandas/)
+LinkedIn Learning - Data Visualization (https://www.linkedin.com/learning/data-visualization-tips-and-tricks)
+edX - Analyzing Data with Python (https://www.edx.org/learn/python/ibm-analyzing-data-with-python)
+
+
+Additional Skills:
+Tableau: Tableau Public Training (https://www.tableau.com/learn/training)
+Statistics: Khan Academy - Stats Intro (https://www.khanacademy.org/math/statistics-probability)","
+Datacamp - Predictive Analytics Mastery (https://www.datacamp.com/tracks/associate-data-scientist-in-python)
+Coursera - Predictive Analytics and Data Mining (https://www.coursera.org/learn/predictive-analytics)
+freeCodeCamp - Data Visualization with Python (https://www.freecodecamp.org/learn/data-visualization/)
+Udemy - Advanced Data Analysis (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+edX - Advanced Data Analytics (https://www.edx.org/learn/data-analysis/harvard-university-high-dimensional-data-analysis)
+LinkedIn Learning - Data Analysis with Postgre (https://www.linkedin.com/learning/data-analysis-with-postgresql)
+
+
+Additional Skills:
+Power BI: Microsoft - Power BI Intro (https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/)","Google Data Analytics Professional Certificate (Beginner Modules)
+Microsoft Technology Associate: Introduction to Programming Using Python
+Coursera - Introduction to Data Analysis Certificate","IBM Data Analyst Professional Certificate
+Tableau Desktop Specialist
+Microsoft Certified: Data Analyst Associate (Intermediate Modules)","Data Analytics Professional
+Microsoft Certified: Data Analyst Associate
+Google Data Analytics Professional Certificate (Advanced Modules)","Basic Sales Report
+Simple Bar Chart Dashboard
+Data Cleaning on a Small Dataset","Customer Retention Analysis
+Interactive Sales Dashboard
+Market Trend Report","Predictive Customer Behavior Model
+Advanced Business Intelligence Dashboard
+Market Basket Analysis"
+Python,Software Engineer,"Software Engineers design, develop, and maintain software systems using Python, focusing on creating efficient, scalable, and reliable applications for various domains.","
+Codecademy - Python Programming Fundamentals (https://www.codecademy.com/learn/python-for-programmers)
+freeCodeCamp - Python Basics (https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+Coursera - Intro to Programming with Python (https://www.coursera.org/learn/python)
+Udemy - Python for Beginners (https://www.udemy.com/course/python-the-complete-python-developer-course/)
+LinkedIn Learning - Python Quick Start (https://www.linkedin.com/learning/python-quick-start)
+edX - CS50's Introduction to Programming with Python (https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
+
+
+Additional Skills:
+Git: Coursera - Introduction to Git and GitHub (https://www.coursera.org/learn/introduction-git-github)
+Algorithms: Khan Academy - Algorithms Intro (https://www.khanacademy.org/computing/computer-science/algorithms)","Udacity - API Development with Python (https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+freeCodeCamp - API Development (https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+Coursera - Python 3 Programming Specialization (https://www.coursera.org/specializations/python-3-programming)
+Udemy - Python APIs (https://www.udemy.com/course/rest-api-flask-and-python/)
+LinkedIn Learning - Building RESTful APIs with Flask (https://www.linkedin.com/learning/building-restful-apis-with-flask)
+edX - Python for Software Development (https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)
+
+
+Additional Skills:
+SQL: Coursera - Databases and SQL for Data Science with Python (https://www.coursera.org/learn/sql-data-science)
+Docker: Docker - Getting Started with Docker (https://www.docker.com/get-started/)","Educative - System Design with Python (https://talentsprint.com/course/python-full-stack-developer)
+Coursera - Software Design and Architecture Specialization (https://www.coursera.org/specializations/software-design-architecture)
+freeCodeCamp - System Design Tutorial (https://www.freecodecamp.org/news/systems-design-for-interviews/)
+Udemy - Advanced Python (https://www.udemy.com/course/advanced-python-programming/)
+edX - Advanced Software Engineering (https://www.edx.org/course/software-engineering-essentials)
+LinkedIn Learning - Software Architecture (https://www.linkedin.com/learning/software-architecture-foundations)
+
+
+Additional Skills:
+AWS: AWS Training - AWS Cloud Practitioner Essentials (https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)","Python Institute PCAP (Certified Associate in Python Programming)
+freeCodeCamp Python Certification
+Microsoft Technology Associate: Introduction to Programming Using Python","AWS Certified Developer Associate
+freeCodeCamp Back End Development and APIs Certification
+Google Cloud Associate Cloud Engineer","Google Cloud Professional Developer
+Microsoft Certified: Azure Developer Associate
+Certified Software Development Professional (CSDP)","Simple Calculator App
+File Organizer Script
+Basic Command-Line Game","REST API for a To-Do List
+Inventory Management System
+Weather Data Fetcher App","Real-Time Chat Application
+Automated Testing Framework
+Scalable Microservices Application"
+Java,Backend Developer,"Backend Developers use Java to build server-side applications, manage databases, and ensure seamless integration with front-end systems, focusing on performance, scalability, and security.","Udemy - Java Fundamentals (https://www.udemy.com/course/java-se-programming/)
+freeCodeCamp - Java Basics (https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/)
+Coursera - Intro to Java (https://www.coursera.org/learn/java-introduction)
+Udemy - Java for Beginners (https://www.udemy.com/course/java-the-complete-java-developer-course/)
+LinkedIn Learning - Java Essentials (https://www.linkedin.com/learning/learning-java-11)
+edX - Intro to Java Programming (https://www.edx.org/learn/java/the-hong-kong-university-of-science-and-technology-introduction-to-java-programming-part-1)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/intro-sql)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)","Spring Boot Development (https://www.skillsoft.com/channel/oracle-certified-professional-java-se-programmer-98839b50-357f-11e7-ae6c-2362cb5ba32b)
+freeCodeCamp - Spring Boot Tutorial (https://www.freecodecamp.org/news/spring-boot-tutorial/)
+Coursera - Spring Boot Basics (https://www.coursera.org/specializations/packt-learn-spring-boot-in-100-steps-beginner-to-expert)
+Udemy - Spring Boot Intro (https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
+LinkedIn Learning - Spring Essentials (https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2/spring-into-spring?u=57121697)
+edX - Java Web Development (https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduction-to-java-programming-writing-good-code)
+
+
+Additional Skills:
+REST APIs: freeCodeCamp - API Tutorial (https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+Maven: Udemy - Maven Intro (https://www.udemy.com/course/apache-maven-beginner-to-guru/)","Udemy - Microservices with Spring Boot (https://www.udemy.com/course/java-se-programming/)
+Coursera - Microservices Basics (https://www.coursera.org/learn/microservices)
+freeCodeCamp - Microservices Tutorial (https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/)
+Udemy - Microservices Intro (https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+edX - Advanced Java Development (https://www.edx.org/learn/computer-programming/purdue-university-ap-computer-science-a-java-programming-polymorphism-and-advanced-data-structures)
+LinkedIn Learning - Microservices Foundations (https://www.linkedin.com/learning/microservices-foundations)
+
+
+Additional Skills:
+Docker: Docker - Getting Started (https://www.docker.com/101-tutorial)","Oracle Java SE Programmer I
+freeCodeCamp Java Certification
+Microsoft Technology Associate: Introduction to Programming Using Java","Oracle Java SE Programmer II
+AWS Certified Developer Associate
+Spring Professional Certification","Oracle Java SE Professional
+Google Cloud Professional Developer
+Certified Kubernetes Administrator (CKA)","Simple CRUD Application
+Basic API Endpoint
+User Login System","RESTful API with Spring Boot
+User Management System
+Product Catalog Backend","E-commerce Backend with Microservices
+Scalable Authentication Service
+Real-Time Data Processing API"
+Java,Android Developer,"Android Developers create mobile applications for Android devices using Java, focusing on user experience, performance, and integration with device features.","NC Career Launch - Android Studio Basics (https://www.nccareerlaunch.org/certifications/google-associate-android-developer-certification)
+freeCodeCamp - Android Development Basics (https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required/)
+Coursera - Intro to Android with Java (https://www.coursera.org/learn/java-for-android)
+Udemy - Android Java Intro (https://www.udemy.com/course/android-development-java-android-studio-masterclass/)
+LinkedIn Learning - Android Essentials (https://www.linkedin.com/learning/android-development-essential-training-1-your-first-app)
+edX - Intro to Mobile Development (https://www.edx.org/learn/android-development)
+
+
+Additional Skills:
+XML: W3Schools - XML Tutorial (https://www.w3schools.com/xml/)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/version-control-with-git)","Udacity - Android App Development (https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+freeCodeCamp - Android Tutorial (https://www.freecodecamp.org/news/learn-how-to-develop-native-android-apps-with-kotlin-full-tutorial/)
+Coursera - Intermediate Android (https://www.coursera.org/specializations/android-app-development)
+Udemy - Android Development (https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
+LinkedIn Learning - Android UI Design (https://www.linkedin.com/learning/android-studio-essential-training-14266841/android-studio-and-intellij-idea?u=57121697)
+edX - Android Development with Java (https://www.edx.org/learn/android-development)
+
+
+Additional Skills:
+SQLite: Coursera - SQLite Basics (https://www.coursera.org/learn/intro-sql)
+REST APIs: freeCodeCamp - API Tutorial (https://www.freecodecamp.org/learn/back-end-development-and-apis/)","Udemy - Advanced Android Programming: Learning Beyond Basics (https://www.udemy.com/course/advance-android-programming-by-9i-technologies/)
+Coursera - Advanced Android Features (https://www.coursera.org/specializations/advanced-app-android)
+freeCodeCamp - Advanced Android (https://www.freecodecamp.org/news/create-an-android-app/)
+Udemy - Advanced Android (https://www.udemy.com/course/advanced-android-development/)
+edX - Mobile App Optimization (https://www.edx.org/learn/app-development)
+LinkedIn Learning - Android Studio Essentials (https://www.linkedin.com/learning/android-studio-essential-training-14266841/android-studio-and-intellij-idea?u=57121697)
+
+
+Additional Skills:
+Kotlin: Coursera - Kotlin Basics (https://www.coursera.org/learn/kotlin-for-java-developers)","Google Associate Android Developer (Beginner Modules)
+freeCodeCamp Java Certification
+Udemy Android Development Certificate","Google Associate Android Developer
+Android Developer Certification (Udemy)
+AWS Certified Developer Associate","Google Professional Android Developer
+Android Certified Application Developer
+Microsoft Certified: Azure Developer Associate","Simple Calculator App
+To-Do List App
+Weather Display App","Note-Taking App with Database
+Weather App with API Integration
+Simple Social Media Feed","Social Media App with Real-Time Updates
+Location-Based Services App
+Multi-Feature Fitness Tracker"
+Java,Software Engineer,"Software Engineers using Java design, develop, and maintain robust software systems, emphasizing object-oriented programming, scalability, and cross-platform compatibility.","MIT - Java and OOP Fundamentals (https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/)
+freeCodeCamp - Java Basics (https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/)
+Coursera - Intro to Java (https://www.coursera.org/learn/java-introduction)
+Udemy - Java for Beginners (https://www.udemy.com/course/java-the-complete-java-developer-course/)
+LinkedIn Learning - Java Essentials (https://www.linkedin.com/learning/learning-java-11)
+edX - Intro to Java Programming (https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduction-to-java-programming-starting-to-code-in-java)
+
+
+Additional Skills:
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)
+Algorithms: Khan Academy - Algorithms Intro (https://www.khanacademy.org/computing/computer-science/algorithms)","Pluralsight - Design Patterns in Java (https://www.pluralsight.com/courses/java-design-patterns-big-picture)
+freeCodeCamp - Java Design Patterns (https://www.freecodecamp.org/news/tag/design-patterns/)
+Coursera - Java OOP (https://www.coursera.org/learn/object-oriented-java)
+Udemy - Java Patterns (https://www.udemy.com/course/java-design-patterns/)
+LinkedIn Learning - Java Design Patterns (https://www.linkedin.com/learning/java-design-patterns-creational)
+edX - Java Software Development (https://www.edx.org/learn/java/universidad-galileo-java-programming-fundamentals)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/sql-for-data-science)
+Maven: Udemy - Maven Intro (https://www.udemy.com/course/apache-maven-beginner-to-guru/)","Coursera - Enterprise Application Development (https://www.coursera.org/specializations/beginning-application-developer)
+Coursera - Enterprise Java (https://www.coursera.org/specializations/java-ee)
+freeCodeCamp - Advanced Java (https://www.freecodecamp.org/news/object-oriented-programming-in-java/)
+Udemy - Enterprise Java (https://www.udemy.com/course/java-enterprise-application-development-with-java-ee-8/)
+edX - Advanced Software Engineering (https://www.edx.org/course/software-engineering-essentials)
+LinkedIn Learning - Java EE (https://www.linkedin.com/learning/java-ee-8-essential-training/the-power-of-java-ee?u=57121697)
+
+
+Additional Skills:
+Docker: Docker - Getting Started (https://www.docker.com/101-tutorial)","Oracle Java SE Programmer I
+freeCodeCamp Java Certification
+Microsoft Technology Associate: Introduction to Programming Using Java","Oracle Java SE Programmer II
+AWS Certified Developer Associate
+Spring Professional Certification","Oracle Java SE Professional
+Google Cloud Professional Developer
+Certified Software Development Professional (CSDP)","Simple Calculator App
+Basic Inventory Tracker
+Command-Line Quiz Game","Task Scheduler Application
+File Management System
+API-Driven Weather App","Inventory Management System with Microservices
+Real-Time Collaboration Tool
+Scalable Enterprise Application"
+Java,Game Developer,"Game Developers use Java to create interactive games, leveraging libraries like LibGDX or Unity (with Java integration) for graphics, physics, and gameplay mechanics.","Unity - Unity and C# Fundamentals (https://www.coursera.org/learn/introduction-programming-unity)
+freeCodeCamp - Java Game Dev Basics (https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java/)
+Coursera - Intro to Game Dev with Java (https://www.coursera.org/specializations/game-design-and-development)
+Udemy - Java Game Intro (https://www.udemy.com/course/java-game-development-masterclass/)
+LinkedIn Learning - Game Dev Basics (https://www.linkedin.com/learning/game-design-foundations-1-ideas-core-loops-and-goals/welcome?u=57121697)
+edX - Intro to Game Programming (https://www.edx.org/learn/game-design/massachusetts-institute-of-technology-introduction-to-game-design)
+
+
+Additional Skills:
+C#: Coursera - C# Basics (https://www.coursera.org/learn/introduction-programming-unity)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)","Udemy - Game Physics and AI (https://www.udemy.com/course/artificial-intelligence-in-unity/)
+freeCodeCamp - Game Physics (https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/)
+Coursera - Game AI Basics (https://www.coursera.org/learn/introduction-to-ai)
+Udemy - Game Dev with Java (https://www.udemy.com/course/the-complete-libgdx-game-course/)
+LinkedIn Learning - Game Physics (https://www.linkedin.com/learning/unity-2023-essential-training/physics-and-rigid-bodies?u=57121697)
+edX - Game Development with Java (https://www.edx.org/learn/java/universidad-galileo-java-programming-fundamentals)
+
+
+Additional Skills:
+Mathematics: Khan Academy - Linear Algebra (https://www.khanacademy.org/math/linear-algebra)
+Unity: Unity - Learn Basics (https://learn.unity.com/course/unity-essentials)","Udemy - Advanced Game Engine Design (https://www.udemy.com/course/artificial-intelligence-in-unity/)
+Coursera - Advanced Game Dev (https://www.coursera.org/learn/packt-advanced-game-development-and-unity-basics-vrxyj)
+freeCodeCamp - Advanced Game Dev (https://www.freecodecamp.org/news/learn-game-development-with-javascript-and-kaplay/)
+Udemy - Advanced Game Dev (https://www.udemy.com/course/3dmotive-learn-advanced-game-mechanics-in-unity-for-game-development/)
+edX - Game Engine Design (https://www.edx.org/learn/game-development)
+LinkedIn Learning - Advanced Unity (https://www.linkedin.com/learning/advanced-unity-2d-platformer-player-movement/welcome?u=57121697)
+
+Additional Skills:
+3D Modeling: Blender - Intro to Blender (https://www.blender.org/support/tutorials/)","Unity Certified User
+freeCodeCamp Java Certification
+Udemy Game Development Certificate","Unity Certified Associate
+AWS Certified Developer Associate
+Microsoft Certified: Azure Developer Associate (Game Modules)","Unity Certified Developer
+Google Cloud Professional Developer
+Certified Game Developer (Udemy)","Simple 2D Pong Game
+Basic Platformer Game
+Tic-Tac-Toe Game","2D Platformer with Physics
+AI-Driven Enemy Behavior
+Puzzle Game with Levels","3D Adventure Game
+AR/VR Game Prototype
+Multiplayer Game with Networking"
+Java,Data Engineer,"Data Engineers build and maintain data pipelines and infrastructure using Java, ensuring data is accessible, reliable, and optimized for analysis and processing.","Coursera - SQL and Java Basics (https://www.coursera.org/learn/intro-sql)
+freeCodeCamp - Java Basics (https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/)
+Coursera - Intro to Data Engineering (https://www.coursera.org/learn/intro-to-data-engineering)
+Udemy - Java for Data (https://www.udemy.com/course/professional-certificate-in-data-engineering/)
+LinkedIn Learning - Java Essentials (https://www.linkedin.com/learning/learning-java-11)
+edX - Intro to Data Engineering (https://www.edx.org/certificates/professional-certificate/ibm-data-engineering)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/specializations/learn-sql-basics-data-science)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)","Udemy - Big Data Processing (https://www.udemy.com/course/big_data/)
+freeCodeCamp - Big Data Basics (https://www.freecodecamp.org/news/tag/big-data/)
+Coursera - Big Data with Java (https://www.coursera.org/specializations/big-data)
+Udemy - Big Data Intro (https://www.udemy.com/course/big-data-and-hadoop-for-beginners/)
+LinkedIn Learning - Big Data Foundations (https://www.linkedin.com/learning/data-science-foundations-fundamentals-14537508/getting-started?u=57121697)
+edX - Data Engineering with Java (https://www.edx.org/certificates/professional-certificate/ibm-data-engineering)
+
+
+Additional Skills:
+Hadoop: Coursera - Hadoop Basics (https://www.coursera.org/learn/hadoop)
+Spark: edX - Spark Intro (https://www.edx.org/learn/apache-spark)","Google - Advanced Data Engineering (https://cloud.google.com/learn/training/data-engineering-and-analytics)
+Coursera - Advanced Data Engineering (https://www.coursera.org/learn/advanced-data-engineering)
+freeCodeCamp - Advanced Data Engineering (https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/)
+Udemy - Advanced Data Engineering (https://www.udemy.com/course/advanced-sql-for-data-engineering/)
+edX - Data Engineering Optimization (https://www.edx.org/learn/computer-science/pragmatic-ai-labs-data-engineering-with-databricks)
+LinkedIn Learning - Data Engineering Advanced (https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?contextUrn=urn%3Ali%3AlyndaLearningPath%3A65fcc437498e6539e652f641&u=57121697)
+
+
+Additional Skills:
+Kafka: Confluent - Kafka Intro (https://docs.confluent.io/kafka/introduction.html)","Oracle Java SE Programmer I
+Google Data Analytics Professional Certificate (Beginner Modules)
+Microsoft Technology Associate: Introduction to Programming Using Java","Oracle Java SE Programmer II
+AWS Certified Big Data Specialty
+Google Professional Data Engineer (Intermediate Modules)","Google Professional Data Engineer
+Microsoft Certified: Azure Data Engineer Associate
+Cloudera Certified Data Engineer","Simple Data Pipeline Script
+Basic ETL Process
+Data Aggregation Tool","Data Pipeline with Hadoop
+Real-Time Data Ingestion System
+Data Warehouse Loader","Scalable ETL Automation System
+Real-Time Data Streaming Pipeline
+Distributed Data Processing Framework"
+C,Embedded Systems Engineer,"Embedded Systems Engineers use C to develop software for hardware devices, focusing on low-level programming, real-time performance, and resource efficiency.","edX - C Programming for Embedded Systems (https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
+YouTube - C Basics (https://www.youtube.com/watch?v=KJgsSFOSQv0)
+Coursera - Intro to C (https://www.coursera.org/learn/c-for-everyone)
+Udemy - C for Beginners (https://www.udemy.com/course/c-programming-for-beginners/)
+LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/learning-c)
+edX - Intro to C Programming (https://www.edx.org/course/introduction-to-c-programming)
+
+
+Additional Skills:
+Assembly: Coursera - Assembly Basics (https://www.coursera.org/learn/zarchitecture-assembler-language-part-1-the-basics)
+Electronics: Khan Academy - Circuits Intro (https://www.khanacademy.org/science/electrical-engineering)","Coursera - Microcontroller Architecture (https://www.coursera.org/learn/introduction-embedded-systems)
+freeCodeCamp - Embedded C Tutorial (https://www.freecodecamp.org/news/the-arduino-handbook/)
+Coursera - Microcontroller Basics (https://www.coursera.org/learn/microcontroller-and-industrial-applications)
+Udemy - Embedded Systems (https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/)
+LinkedIn Learning - Embedded Systems (https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=57121697)
+edX - Embedded Systems with C (https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)
+
+
+Additional Skills:
+RTOS: Udemy - RTOS Intro (https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)","Coursera - Advanced Embedded Systems (https://www.coursera.org/learn/arm-cortex-stm32-deep-dive-mastering-embedded-systems)
+Coursera - Advanced Embedded (https://www.coursera.org/specializations/advanced-embedded-linux-development)
+freeCodeCamp - Advanced C (https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/)
+Udemy - Advanced Embedded (https://www.udemy.com/course/embedded-systems-advance-bare-metal-programming/)
+edX - Embedded Systems Optimization (https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-multi-threaded-interfacing)
+LinkedIn Learning - Advanced Embedded (https://www.linkedin.com/learning/introduction-to-embedded-systems-with-rust/rust-on-embedded-systems?u=57121697)
+
+
+Additional Skills:
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/linux-basics-the-command-line-interface)","Embedded C Basics (Udemy)
+freeCodeCamp C Certification
+Microsoft Technology Associate: Introduction to Programming Using C","Certified Embedded Systems Developer (Udemy)
+ARM Embedded Systems Certificate
+AWS Certified Developer Associate","Microcontroller Programming Certification
+Certified Embedded Engineer (IEEE)
+Linux Foundation Certified Engineer","LED Blinking Program
+Simple Sensor Reader
+Basic Timer Application","Temperature Monitoring System
+Motor Control Program
+Real-Time Clock Implementation","IoT Device with Network Connectivity
+Autonomous Robot Controller
+Embedded Security System"
+C,Game Developer,"Game Developers using C (now C++ / C# are more commonly used) create high-performance games, often integrating with engines like Unreal or SDL, focusing on graphics, physics, and real-time interaction.","Studyplan - C and SDL Basics (https://learncgames.com/tutorials/getting-started-with-sdl-and-c)
+YouTube - C Basics (https://www.youtube.com/watch?v=KJgsSFOSQv0)
+Coursera - Intro to C and C++ (https://www.coursera.org/specializations/coding-for-everyone)
+Udemy - C++ Game Intro (https://www.udemy.com/course/learn-cpp-for-ue4-unit-1/)
+LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/learning-c)
+edX - Intro to Game Dev with C (https://www.edx.org/learn/game-design/massachusetts-institute-of-technology-introduction-to-game-design)
+
+
+Additional Skills:
+SDL: Lazy Foo - SDL Tutorial (https://lazyfoo.net/tutorials/SDL/)
+Mathematics: Khan Academy - Linear Algebra (https://www.khanacademy.org/math/linear-algebra)","Coursera - C# and Unity Introduction (https://www.coursera.org/learn/introduction-programming-unity)
+freeCodeCamp - C++ Game Engines (https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/)
+Coursera - C++ for Game Development (https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
+Udemy - C++ Game Dev (https://www.udemy.com/course/cpp-fundamentals/)
+LinkedIn Learning - Scripting with C# in Unity (https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=57121697)
+edX - C++ Programming (https://www.edx.org/certificates/professional-certificate/codio-c-programming-a-hands-on-introduction)
+
+
+Additional Skills:
+OpenGL: Learn OpenGL - Intro (https://learnopengl.com/Getting-started/OpenGL)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)","Coursera - Advanced Game Development and Unity Basics (https://www.coursera.org/learn/packt-advanced-game-development-and-unity-basics-vrxyj)
+Coursera - Advanced Unity Scripting (https://www.coursera.org/learn/packt-advanced-unity-scripting-ai-complete-3d-game-development-nlykm)
+freeCodeCamp - Game Development with Unreal Engine (https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/)
+Udemy - Advanced C++ (https://www.udemy.com/course/unreal-engine-5-advanced-action-rpg/)
+edX - Mastering Game Programming (https://www.edx.org/learn/game-development/hp-from-code-to-creation-mastering-game-programming)
+LinkedIn Learning - Advanced Unity 2D Platformer (https://www.linkedin.com/learning/advanced-unity-2d-platformer-player-movement/welcome?u=57121697)
+
+
+Additional Skills:
+Unreal Engine: Unreal - Intro (https://www.unrealengine.com/en-US/onlinelearning)","freeCodeCamp C Certification
+Udemy C Game Development Certificate
+Microsoft Technology Associate: Introduction to Programming Using C","Unity Certified Associate
+Unreal Engine C Developer Certificate
+AWS Certified Developer Associate","Unity Certified Developer
+Unreal Engine Certified Developer
+Certified Game Developer (Udemy)","Simple 2D Pong Game
+Basic Sprite Animation
+Tic-Tac-Toe Game","2D Platformer with Physics
+AI-Driven Enemy Behavior
+3D Cube Renderer","3D First-Person Shooter
+Multiplayer Racing Game
+Physics-Based Puzzle Game"
+C,System Programmer,"System Programmers use C to develop low-level software like operating systems, drivers, and utilities, focusing on performance and hardware interaction.","MIT - C and Operating Systems (https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/)
+freeCodeCamp - C Basics (https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+Coursera - Intro to C Systems (https://www.coursera.org/specializations/c-programming)
+Udemy - C for Systems (https://www.udemy.com/course/system-programming/)
+LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=57121697)
+edX - Intro to C Programming (https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started)
+
+
+Additional Skills:
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/linux-fundamentals)
+Assembly: Coursera - Assembly Basics (https://www.coursera.org/learn/zarchitecture-assembler-language-part-1-the-basics)","Low-Level Programming (https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started)
+freeCodeCamp - Low-Level C (https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/)
+Coursera - Systems Programming (https://www.coursera.org/learn/system-programming)
+Udemy - Linux Programming with C (https://www.udemy.com/course/linux-system-programming-using-c-language/)
+LinkedIn Learning - Advance Concepts and Practical Applications with C (https://www.linkedin.com/learning/c-programming-exploring-advanced-concepts-and-practical-applications/behond-c?u=57121697)
+edX - C Systems Programming (https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+
+
+Additional Skills:
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)
+Operating Systems: MIT - OS Intro (https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)","Coursera - Kernel Programming (https://www.coursera.org/learn/linux-kernel-programming-yocto-project)
+Coursera - Kernel Basics (https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot)
+freeCodeCamp - Creating Linux Device Drivers (https://www.freecodecamp.org/news/how-to-create-linux-device-drivers/)
+Udemy - Kernel Programming (https://www.udemy.com/course/linux-kernel-development-course/)
+edX - Advanced C Programming (https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+LinkedIn Learning - Advanced C Systems (https://www.linkedin.com/learning/advanced-c-programming-integrating-c-and-assembly-language/combining-c-with-assembly-language?u=57121697)
+
+
+Additional Skills:
+Networking: Coursera - Networking Basics (https://www.coursera.org/learn/computer-networking)","freeCodeCamp C Certification
+Udemy C Systems Programming Certificate
+Microsoft Technology Associate: Introduction to Programming Using C","Linux Foundation Certified SysAdmin
+AWS Certified Developer Associate
+Certified Systems Programmer (Udemy)","Linux Professional Certification
+Red Hat Certified Engineer
+Certified Embedded Systems Programmer","Simple Shell Command Emulator
+Basic Memory Allocator
+File System Scanner","Custom Device Driver
+Process Scheduler Simulator
+Memory Management Utility","System Monitoring Tool
+Custom Operating System Kernel
+Network Packet Sniffer"
+C,Software Engineer,"Software Engineers using C develop efficient, high-performance applications, often for systems requiring close hardware interaction or minimal overhead.","C Programming Fundamentals (https://www.learn-c.org/)
+freeCodeCamp - C Basics (https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+Coursera - Intro to C (https://www.coursera.org/learn/c-for-everyone)
+Udemy - C for Beginners (https://www.udemy.com/course/c-programming-for-beginners/)
+LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/learning-c)
+edX - Intro to C Programming (https://www.edx.org/course/introduction-to-c-programming)
+
+
+Additional Skills:
+Git: Coursera - Git Basics (https://www.coursera.org/learn/getting-started-with-git-and-github)
+Algorithms: Khan Academy - Algorithms Intro (https://www.khanacademy.org/computing/computer-science/algorithms)","Coursera - Algorithms and System Design (https://www.coursera.org/specializations/algorithms)
+freeCodeCamp - C Algorithms (https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
+Coursera - Intermediate C (https://www.coursera.org/learn/c-programming-pointers-and-memory-management)
+Udemy - C Algorithms (https://www.udemy.com/course/data-structures-and-algorithms-in-c/)
+LinkedIn Learning - C Programming (https://www.linkedin.com/learning/c-programming-exploring-advanced-concepts-and-practical-applications/behond-c?u=57121697)
+edX - C Software Development (https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/sql-for-data-science)
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/linux-fundamentals)","SEI - Advanced Software Architecture (https://insights.sei.cmu.edu/library/advanced-software-architecture-workshop/)
+Coursera - Advanced C (https://www.coursera.org/learn/c-programming-advanced-data-types)
+freeCodeCamp - Advanced C (https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/)
+Udemy - Advanced C (https://www.udemy.com/course/advanced-c-programming/)
+edX - Advanced Software Engineering (https://www.edx.org/course/software-engineering-essentials)
+LinkedIn Learning - Software Architecture (https://www.linkedin.com/learning/software-architecture-foundations)
+
+
+Additional Skills:
+Docker: Docker - Getting Started (https://www.docker.com/101-tutorial)","freeCodeCamp C Certification
+Udemy C Programming Certificate
+Microsoft Technology Associate: Introduction to Programming Using C","AWS Certified Developer Associate
+Linux Foundation Certified SysAdmin
+Certified C Developer (Udemy)","Certified Software Development Professional (CSDP)
+Google Cloud Professional Developer
+Microsoft Certified: Azure Developer Associate","Simple Calculator App
+File Reader Utility
+Basic Sorting Program","File Compression Tool
+Process Monitoring App
+Database Query Engine","Certified Software Development Professional (CSDP)
+Google Cloud Professional Developer
+Microsoft Certified: Azure Developer Associate"
+C,IoT Developer,"IoT Developers use C to create software for Internet of Things devices, focusing on connectivity, efficiency, and real-time data processing.","Udemy - IoT Fundamentals with C (https://www.udemy.com/course/internet-of-things-iot-fundamentals/)
+freeCodeCamp - C Basics (https://www.freecodecamp.org/news/introduction-to-iot-internet-of-things/)
+Coursera - Intro to IoT with C (https://www.coursera.org/learn/iot)
+Udemy - IoT Intro (https://www.udemy.com/course/internet-of-things-esp-esp32-nodemcu-node-esp8266-iot/)
+LinkedIn Learning - IoT Basics (https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome?u=57121697)
+edX - Intro to IoT (https://www.edx.org/learn/iot-internet-of-things/curtin-university-introduction-to-the-internet-of-things-iot)
+
+
+Additional Skills:
+Electronics: Khan Academy - Circuits Intro (https://www.khanacademy.org/science/electrical-engineering)
+Networking: Coursera - Networking Basics (https://www.coursera.org/learn/akamai-networking)","Embedded Systems for IoT (https://www.coursera.org/learn/iot)
+freeCodeCamp - IoT with Prototyping Firebase (https://www.freecodecamp.org/news/iot-prototyping-with-firebase-doing-more-with-less-2f5c746dac8b/)
+Coursera - IoT Embedded Systems (https://www.coursera.org/learn/m2m-iot-interface-design-embedded-systems)
+Udemy - IoT Development (https://www.udemy.com/course/iot-full-project-course/)
+LinkedIn Learning - IoT Development (https://www.linkedin.com/learning/iot-foundations-device-management/welcome?u=57121697)
+edX - IoT Programming and Big Data (https://www.edx.org/learn/big-data/curtin-university-iot-programming-and-big-data)
+
+
+Additional Skills:
+MQTT: HiveMQ - MQTT Intro (https://www.hivemq.com/mqtt-essentials/)
+Git: Coursera - Git Basics (https://www.coursera.org/learn/introduction-git-github)","edX - Advanced IoT Systems (https://www.edx.org/masters/micromasters/curtinx-internet-of-things-iot)
+Coursera - Advanced IoT (https://www.coursera.org/learn/advanced-iot-systems-and-industrial-applications-course-3)
+freeCodeCamp - Advanced IoT (https://www.freecodecamp.org/news/building-an-iiot-system-using-apache-nifi-mqtt-and-raspberry-pi-ce1d6ed565bc/)
+Udemy - Advanced IoT (https://www.udemy.com/course/advanced-iot-course-2024-complete-guide-idea-to-product/)
+edX - IoT Optimization (https://www.edx.org/learn/iot-internet-of-things/ecole-polytechnique-federale-de-lausanne-iot-systems-and-industrial-applications-with-design-thinking)
+LinkedIn Learning - Advanced IoT (https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-foundations-of-iot-22850846?u=57121697)
+
+
+Additional Skills:
+Cloud Computing: AWS Training - Intro to AWS (https://aws.amazon.com/training/classroom/aws-technical-essentials/)","freeCodeCamp C Certification
+Udemy IoT Basics Certificate
+Microsoft Technology Associate: Introduction to Programming Using C","AWS Certified IoT Specialty
+Certified IoT Developer (Udemy)
+ARM Embedded Systems Certificate","IoT Solution Architect
+Microsoft Certified: Azure IoT Developer Specialty
+Google Cloud Professional IoT Engineer","LED Control via IoT
+Temperature Sensor Reader
+Basic IoT Data Logger","Smart Light Controller
+IoT Weather Station
+Remote Sensor Monitor","Smart Home Automation System
+Industrial IoT Monitoring Solution
+Secure IoT Network Framewo"
+R,Data Scientist,"Data Scientists using R analyze data, build statistical models, and create visualizations to uncover insights and solve analytical problems, leveraging R’s powerful statistical tools.","Datacamp - R Programming Fundamentals (https://www.datacamp.com/courses/free-introduction-to-r)
+freeCodeCamp - R Basics (https://www.freecodecamp.org/news/r-programming-course/)
+Coursera - Intro to R (https://www.coursera.org/learn/introducton-r-programming-data-science)
+Udemy - R for Beginners (https://www.udemy.com/course/r-programming/)
+LinkedIn Learning - R Essentials (https://www.linkedin.com/learning/learning-r)
+edX - Intro to R Programming (https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics)
+
+
+Additional Skills:
+Statistics: Khan Academy - Statistics Intro (https://www.khanacademy.org/math/statistics-probability)
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/intro-sql)","Udemy - Machine Learning with R (https://www.udemy.com/course/machinelearning/)
+freeCodeCamp - Machine Learning with R (https://www.freecodecamp.org/news/tag/machine-learning/)
+Coursera - R Machine Learning (https://www.coursera.org/learn/machine-learning-algorithms-r-business-analytics)
+Udemy - R ML Intro (https://www.udemy.com/course/machine-learning-with-r-studio/)
+LinkedIn Learning - R for Data Science (https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science?u=57121697)
+edX - R for Data Analysis (https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics)
+
+
+Additional Skills:
+Python: Coursera - Python Basics (https://www.coursera.org/learn/python-for-applied-data-science-ai)
+ggplot2: Datacamp - ggplot2 Intro (https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)","Udemy - Deep Learning and Big Data Analysis with R (https://www.udemy.com/course/python-and-r-for-machine-learning-deep-learning/)
+Coursera - Deep Learning with R (https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
+freeCodeCamp - Advanced R (https://www.freecodecamp.org/news/tag/r-programming/)
+Udemy - Advanced R (https://www.udemy.com/course/advanced-r/)
+edX - Advanced R Analytics (https://www.edx.org/learn/r-programming/university-of-canterbury-advanced-statistical-inference-and-modelling-using-r)
+LinkedIn Learning - Advanced R (https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6706fec234501eacfbd4fe84&u=57121697)
+
+
+Additional Skills:
+Big Data: Coursera - Big Data Intro (https://www.coursera.org/learn/big-data-introduction)","R Programming Basics Certificate (Datacamp)
+Google Data Analytics Professional Certificate (Beginner Modules)
+Microsoft Technology Associate: Introduction to Programming Using R","IBM Data Science Professional Certificate
+Data Science with R Certificate (Udemy)
+Tableau Desktop Specialist","Advanced R Data Scientist (Udemy)
+Microsoft Certified: Azure Data Scientist Associate
+Google Professional Data Engineer","Basic Data Visualization
+Simple Statistical Analysis
+Dataset Summary Report","Predictive Modeling with Regression
+Customer Segmentation Analysis
+Interactive Data Dashboard","Time Series Forecasting Model
+Deep Learning Sentiment Classifier
+Big Data Visualization Dashboard"
+R,Statistician,"Statisticians use R to perform advanced statistical analysis, develop models, and test hypotheses, providing rigorous insights for research and decision-making.","Coursera - Statistics with R (https://www.coursera.org/specializations/statistics)
+freeCodeCamp - R Basics (https://www.freecodecamp.org/news/r-programming-course/)
+Coursera - Intro to Statistics with R (https://www.coursera.org/learn/probability-intro)
+Udemy - R Stats Intro (https://www.udemy.com/course/statistics-with-r/)
+LinkedIn Learning - R Essentials (https://www.linkedin.com/learning/learning-r/welcome?u=57121697)
+edX - Intro to R for Stats (https://www.edx.org/learn/r-programming/harvard-university-statistics-and-r)
+
+
+Additional Skills:
+Statistics: Khan Academy - Statistics Intro (https://www.khanacademy.org/math/statistics-probability)
+Mathematics: Khan Academy - Linear Algebra (https://www.khanacademy.org/math/linear-algebra)","Coursera - Regression Analysis and Hypothesis Testing (https://www.coursera.org/specializations/statistics)
+freeCodeCamp - R Regression (https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/)
+Coursera - Regression Models (https://www.coursera.org/learn/regression-models)
+Udemy - R Stats (https://www.udemy.com/course/regression-analysis-in-machine-learning-statistics-in-r/)
+LinkedIn Learning - R - Complete Guide (https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=57121697)
+edX - R for Statistical Analysis (https://www.edx.org/certificates/professional-certificate/ucx-statistical-analysis-in-r)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/sql-for-data-science)
+ggplot2: Datacamp - ggplot2 Intro (https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)","Coursera - Advanced Statistical Modeling and Bayesian Methods (https://www.coursera.org/learn/bayesian-statistics)
+Coursera - Bayesian Stats (https://www.coursera.org/learn/bayesian-statistics)
+freeCodeCamp - Advanced R Stats (https://www.freecodecamp.org/news/tag/r-programming/)
+Udemy - Advanced Stats (https://www.udemy.com/course/statistics-with-r-advanced-level/)
+edX - Advanced R Stats (https://www.edx.org/learn/r-programming/university-of-canterbury-advanced-statistical-inference-and-modelling-using-r)
+LinkedIn Learning - Advanced Stats (https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=57121697)
+
+
+Additional Skills:
+Python: Coursera - Python Basics (https://www.coursera.org/specializations/python)","R Programming Basics Certificate (Datacamp)
+Coursera - Statistics with R Certificate
+Microsoft Technology Associate: Introduction to Programming Using R","Statistical Methods Professional (Udemy)
+IBM Data Analyst Professional Certificate
+Coursera - Intermediate Statistics with R","Certified Statistician (ASA)
+Advanced R Statistician (Udemy)
+Google Professional Data Engineer","Descriptive Statistics Report
+Basic Probability Calculator
+Simple Data Visualization","Linear Regression Model
+Hypothesis Testing Experiment
+Statistical Dashboard","Bayesian Inference Model
+Time Series Statistical Analysis
+Multivariate Statistical Report"
+R,Business Analyst,"Business Analysts use R to analyze business data, identify trends, and provide insights to optimize processes, leveraging R’s data manipulation and visualization capabilities.","Coursera - R for Business Analysis (https://www.coursera.org/learn/business-analytics-r)
+freeCodeCamp - R Basics (https://www.freecodecamp.org/news/r-programming-course/)
+Coursera - Intro to R for Business (https://www.coursera.org/learn/business-analytics-r)
+Udemy - R Business Intro (https://www.udemy.com/course/training-in-r-for-business-analytics-a-beginners-guide/)
+LinkedIn Learning - R Essentials (https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science?u=57121697)
+edX - Intro to R for Business (https://www.edx.org/learn/business-administration/the-georgia-institute-of-technology-data-analytics-for-business)
+
+
+Additional Skills:
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/sql-for-data-science)
+Excel: Microsoft - Excel Basics (https://support.microsoft.com/en-us/excel)","Datacamp - Data Visualization with R (https://www.datacamp.com/courses/data-visualization-in-r)
+freeCodeCamp - Data Visualization (https://www.freecodecamp.org/news/data-visualization-tools-guide/)
+Coursera - R Visualization Basics (https://www.coursera.org/learn/data-visualization-r)
+Udemy - R Visualization (https://www.udemy.com/course/data-visualization-with-r/)
+LinkedIn Learning - R for Data Viz (https://www.linkedin.com/learning/data-visualization-in-r-with-ggplot2)
+edX - R for Business Insights (https://www.edx.org/certificates/professional-certificate/ibm-data-analytics-and-visualization-with-excel-and-r)
+
+
+Additional Skills:
+ggplot2: Datacamp - ggplot2 Intro (https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+Statistics: Khan Academy - Stats Intro (https://www.khanacademy.org/math/statistics-probability)","Udemy - Advanced Business Analytics with R (https://www.udemy.com/course/business-analytics-with-r-a-comprehensive-guide/)
+Coursera - Advanced R Analytics (https://www.coursera.org/learn/advanced-r)
+freeCodeCamp - Advanced R (https://www.freecodecamp.org/news/tag/r-programming/)
+Udemy - Advanced R Business (https://www.udemy.com/course/r-analytics/)
+Coursera - Advanced R for Business (https://www.coursera.org/learn/jhu-advanced-data-visualization-r)
+LinkedIn Learning - Advanced R Insights (https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=57121697)
+
+
+Additional Skills:
+Power BI: Microsoft - Power BI Intro (https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)","R Programming Basics Certificate (Datacamp)
+Google Data Analytics Professional Certificate (Beginner Modules)
+Microsoft Technology Associate: Introduction to Programming Using R","IBM Data Analyst Professional Certificate
+Tableau Desktop Specialist
+Coursera - Business Analytics with R Certificate","Certified Business Analyst Professional (CBAP)
+Microsoft Certified: Data Analyst Associate
+Google Data Analytics Professional Certificate (Advanced Modules)","Sales Data Summary Report
+Basic Bar Chart Dashboard
+Customer Data Cleanup Script","Sales Trend Analysis Dashboard
+Customer Segmentation Report
+Operational Efficiency Analysis","Predictive Revenue Model
+Advanced KPI Dashboard
+Market Basket Analysis for Business Strategy"
+R,Bioinformatics Analyst,"Bioinformatics Analysts use R to analyze biological data, such as genomic sequences, leveraging statistical tools and visualization to support research in life sciences.","Coursera - Bioinformatics with R (https://www.coursera.org/learn/introduction-genomics)
+freeCodeCamp - R Basics (https://www.freecodecamp.org/news/r-programming-course/)
+UC Davis - Introduction to R for Bioinformatics (https://ucdavis-bioinformatics-training.github.io/2022_February_Introduction_to_R_for_Bioinformatics/index.html)
+Udemy - R Bio Intro (https://www.udemy.com/course/solving-biological-problems-with-r/)
+LinkedIn Learning - R Essentials (https://www.linkedin.com/learning/learning-r)
+edX - Data Analysis for Life Sciences (https://www.edx.org/certificates/professional-certificate/harvardx-data-analysis-for-life-sciences)
+
+
+Additional Skills:
+Biology: Khan Academy - Biology Intro (https://www.khanacademy.org/science/biology)
+Statistics: Khan Academy - Stats Intro (https://www.khanacademy.org/math/statistics-probability)","Coursera - Bioconductor (https://www.coursera.org/learn/bioconductor)
+freeCodeCamp - Web Apps with R Shiny (https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/)
+Coursera - Genomic Data Science (https://www.coursera.org/specializations/genomic-data-science)
+Udemy - R Genomics (https://www.udemy.com/course/rnaseq-data-analysis-using-shell-scripting-and-r/)
+LinkedIn Learning - R for Data Science (https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science?u=57121697)
+edX - R for Genomic Data (https://www.edx.org/learn/data-analysis/harvard-university-case-studies-in-functional-genomics)
+
+
+Additional Skills:
+Bioconductor: Bioconductor - Intro (https://www.bioconductor.org/help/course-materials/)
+SQL: Coursera - SQL Basics (https://www.coursera.org/learn/sql-for-data-science)","Udemy - Advanced Bioinformatics with R (https://www.udemy.com/course/learn-advanced-bioinformatics-a-z-sequencing-data-analysis/)
+Coursera - Advanced Bioinformatics (https://www.coursera.org/specializations/bioinformatics)
+freeCodeCamp - Advanced R (https://www.freecodecamp.org/news/tag/r-programming/)
+Udemy - Advanced Bio R (https://www.udemy.com/course/bioinformatics-rna-seqdifferential-expression-in-bash-r/)
+edX - Advanced Genomic Analysis (https://www.edx.org/learn/data-analysis/harvard-university-advanced-bioconductor)
+LinkedIn Learning - Advanced R Bio (https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data)
+
+
+Additional Skills:
+Python: Coursera - Python Basics (https://www.coursera.org/specializations/python)","R Programming Basics Certificate (Datacamp)
+Coursera - Introduction to Bioinformatics Certificate
+Microsoft Technology Associate: Introduction to Programming Using R","Bioinformatics with R Certificate (Udemy)
+IBM Data Analyst Professional Certificate
+Coursera - Genomic Data Science with R Certificate","Certified Bioinformatics Analyst
+Advanced R Data Scientist (Udemy)
+Google Professional Data Engineer","Basic Genomic Data Visualization
+Sequence Data Summary
+Simple Statistical Test on Biological Data","Gene Expression Analysis
+Sequence Alignment Visualization
+Statistical Comparison of Biological Samples","Differential Gene Expression Model
+Genomic Data Pipeline
+Phylogenetic Tree Visualization"
+R,Financial Analyst,"Financial Analysts use R to analyze financial data, model investment scenarios, forecast trends, and create visualizations to support strategic financial decisions in businesses or investment firms.","Coursera - R for Financial Analysis (https://www.coursera.org/learn/packt-introduction-to-fintech-using-r-oftqn)
+freeCodeCamp - R Basics (https://www.freecodecamp.org/news/r-programming-course/)
+Coursera - Data Analysis with R (https://www.coursera.org/learn/data-analysis-r)
+Udemy - R Finance Intro (https://www.udemy.com/course/intro-to-fintech-using-r/)
+LinkedIn Learning - R Essentials (https://www.linkedin.com/learning/learning-r)
+edX - Data Science Basics with R (https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics)
+
+
+Additional Skills:
+Finance Basics: Khan Academy - Finance Intro (https://www.khanacademy.org/economics-finance-domain/core-finance)
+Excel: Microsoft - Excel Basics (https://support.microsoft.com/en-us/excel)","Datacamp - Intermediate R for Financial Modeling (https://www.datacamp.com/courses/intermediate-r-for-finance)
+freeCodeCamp - Data Visualization (https://www.freecodecamp.org/news/data-visualization-tools-guide/)
+Coursera - Intermediate R Finance (https://www.coursera.org/learn/financial-risk-management-with-r)
+Udemy - R Finance Modeling (https://www.udemy.com/course/practical-financial-investment-analysis-in-r-and-tidyquant/)
+LinkedIn Learning - R for Data Viz (https://www.linkedin.com/learning/data-visualization-in-r-with-ggplot2)
+edX - R for Financial Insights (https://www.edx.org/learn/data-analysis/ibm-analyzing-data-with-r)
+
+
+Additional Skills:
+ggplot2: Datacamp - ggplot2 Intro (https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+Statistics: Khan Academy - Stats Intro (https://www.khanacademy.org/math/statistics-probability)","Udemy - Advanced Financial Analysis with R (https://www.udemy.com/course/advanced-financial-statement-analysis/)
+Coursera - Advanced R (https://www.coursera.org/learn/advanced-r)
+freeCodeCamp - Advanced R (https://www.freecodecamp.org/news/tag/r-programming/)
+Udemy - Advanced R Finance (https://www.udemy.com/course/r-analytics/)
+edX - Advanced R for Finance (https://www.edx.org/learn/r-programming/university-of-canterbury-advanced-statistical-inference-and-modelling-using-r)
+LinkedIn Learning - Advanced R Insights (https://www.coursera.org/learn/financial-risk-management-with-r)
+
+
+Additional Skills:
+Time Series Analysis: Coursera - Time Series Intro (https://www.coursera.org/learn/bayesian-statistics-time-series-analysis)","R Programming Basics Certificate (Datacamp)
+Coursera - Introduction to Financial Analysis with R
+Microsoft Technology Associate: Introduction to Programming Using R","CFA Institute Investment Foundations Certificate
+IBM Data Analyst Professional Certificate
+Coursera - Financial Analytics with R Certificate","Chartered Financial Analyst (CFA) - Level I
+Certified Financial Modeling & Valuation Analyst (FMVA)
+Google Data Analytics Professional Certificate (Advanced Modules)","Basic Stock Price Visualization
+Simple Budget Analysis Script
+Financial Data Summary Report","Portfolio Performance Dashboard
+Cash Flow Trend Analysis
+Risk Assessment Model","Predictive Stock Price Model
+Monte Carlo Simulation for Investments
+Financial Risk Forecasting Tool"
+SQL,Database Administrator,"Database Administrators use SQL to manage, optimize, and secure databases, ensuring data integrity, availability, and performance for organizational needs.","Coursera - SQL Basics for Database Management (https://www.coursera.org/learn/intro-sql)
+freeCodeCamp - SQL Basics (https://www.freecodecamp.org/learn/relational-database/)
+Coursera - Intro to SQL (https://www.coursera.org/learn/sql-for-data-science)
+Udemy - SQL Intro (https://www.udemy.com/course/learn-sql-from-scratch/)
+LinkedIn Learning - SQL Essentials (https://www.linkedin.com/learning/learning-sql-programming)
+edX - Intro to SQL (https://www.edx.org/course/introduction-to-sql)
+
+
+Additional Skills:
+Database Design: Coursera - DB Design Basics (https://www.coursera.org/learn/database-design-postgresql)
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)","Udemy - Database Administration with SQL (https://www.udemy.com/course/sql-server-dba/)
+freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
+Coursera - Intermediate SQL DBA (https://www.coursera.org/learn/relational-database-administration)
+Udemy - SQL DBA (https://www.udemy.com/course/database-sql-z/)
+LinkedIn Learning - SQL for DBAs (https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=57121697)
+edX - SQL for DB Management (https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)
+
+
+Additional Skills:
+Backup/Recovery: Udemy - Backup Intro (https://www.udemy.com/course/microsoft-sql-server-backup-and-recovery-course/)
+Indexing: Coursera - Indexing Basics (https://www.coursera.org/projects/optimize-your-database-with-indexes)","Microsoft - Advanced SQL Server Administration (https://learn.microsoft.com/en-us/training/paths/write-advanced-transact-sql-queries/)
+Coursera - Advanced SQL DBA (https://www.coursera.org/projects/advanced-rdb-sql)
+freeCodeCamp - Advanced SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
+Udemy - Advanced SQL DBA (https://www.udemy.com/course/the-advanced-sql-course-2021/)
+edX - Advanced SQL Management (https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)
+LinkedIn Learning - Advanced SQL DBA (https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=57121697)
+
+
+Additional Skills:
+Cloud Databases: AWS - RDS Intro (https://aws.amazon.com/training/learn-about/databases/)","Microsoft Technology Associate: Database Fundamentals
+freeCodeCamp Relational Database Certification
+Udemy SQL Basics Certificate","Oracle Database SQL Certified Associate
+Microsoft Certified: Azure Database Administrator Associate (Intermediate Modules)
+AWS Certified Database Specialty","Microsoft Certified: Azure Database Administrator Associate
+Oracle Certified Professional, MySQL Database Administrator
+Google Cloud Professional Database Engineer","Simple Database Creation
+Basic Query Tool
+User Table Management Script","Database Backup System
+Performance Tuning Queries
+User Access Control Setup","High-Availability Database Cluster
+Automated Database Monitoring Tool
+Scalable Cloud Database Solution"
+SQL,Data Engineer,"Data Engineers use SQL to design and manage data pipelines, ensuring efficient data flow, storage, and retrieval for analytical systems.","Coursera - SQL for Data Engineering (https://www.coursera.org/learn/sql-for-data-science)
+freeCodeCamp - SQL Basics (https://www.freecodecamp.org/learn/relational-database/)
+Coursera - Intro to SQL for Data Eng (https://www.coursera.org/learn/introduction-to-data-engineering)
+Udemy - SQL Data Eng Intro (https://www.udemy.com/course/data-engineering-101-data-basics-sql/)
+LinkedIn Learning - SQL Essentials (https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=57121697)
+edX - Intro to SQL for Data Eng (https://www.edx.org/learn/sql/ibm-sql-concepts-for-data-engineers)
+
+
+Additional Skills:
+Database Design: Coursera - DB Design Basics (https://www.coursera.org/learn/relational-database-design)
+Python: Coursera - Python Basics (https://www.coursera.org/learn/python-basics)","Udemy - Intermediate SQL for Data Pipelines (https://www.udemy.com/course/sql-for-data-analytics/)
+freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/sql-joins-tutorial/)
+Coursera - Intermediate SQL Pipelines (https://www.coursera.org/learn/analytics-mysql)
+Udemy - SQL Pipelines (https://www.udemy.com/course/sql-for-data-engineers-designing-and-building-data-pipelines/)
+LinkedIn Learning - SQL for Data Eng (https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=57121697)
+edX - SQL for Data Pipelines (https://www.edx.org/learn/data-engineering/pragmatic-ai-labs-scripting-with-python-and-sql-for-data-engineering)
+
+
+Additional Skills:
+ETL Processes: Coursera - ETL Basics (https://www.coursera.org/learn/extract-transform-and-load-data)
+Cloud Storage: AWS - S3 Intro (https://aws.amazon.com/s3/getting-started/)","Google - Advanced Data Engineering with SQL (https://cloud.google.com/learn/training/data-engineering-and-analytics)
+Coursera - Advanced SQL Data Eng (https://www.coursera.org/learn/advanced-data-engineering)
+freeCodeCamp - Advanced SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
+Udemy - Advanced SQL Data Eng (https://www.udemy.com/course/advanced-sql-for-data-engineering/)
+edX - Advanced SQL for Data Eng (https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)
+LinkedIn Learning - Advanced SQL Data Eng (https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=57121697)
+
+
+Additional Skills:
+Apache Spark: edX - Spark Intro (https://www.edx.org/learn/big-data/the-university-of-california-san-diego-big-data-analytics-using-spark)","Microsoft Technology Associate: Database Fundamentals
+freeCodeCamp Relational Database Certification
+Udemy SQL for Data Engineering Certificate","Oracle Database SQL Certified Associate
+AWS Certified Data Analytics Specialty
+Google Professional Data Engineer (Intermediate Modules)","Google Professional Data Engineer
+Microsoft Certified: Azure Data Engineer Associate
+Cloudera Certified Data Engineer","Basic ETL Script
+Simple Data Warehouse Table
+Data Migration Tool","Data Pipeline with Joins
+Real-Time Data Loader
+Data Transformation Workflow","Scalable Data Pipeline System
+Real-Time Data Streaming Solution
+Distributed Data Warehouse Framework"
+SQL,Data Analyst,"Data Analysts use SQL to query and analyze data from relational databases, generating reports and insights to support business decisions.","Coursera - SQL for Data Analysis (https://www.coursera.org/learn/sql-for-data-science)
+freeCodeCamp - SQL Basics (https://www.freecodecamp.org/learn/relational-database/)
+Coursera - Intro to SQL Analysis (https://www.coursera.org/learn/data-analysis-sql)
+Udemy - SQL Data Intro (https://www.udemy.com/course/sql-for-data-analytics/)
+LinkedIn Learning - SQL Essentials (https://www.linkedin.com/learning/learning-sql-programming)
+edX - Intro to SQL for Data (https://www.edx.org/learn/sql/davidson-college-introduction-to-sql)
+
+
+Additional Skills:
+Excel: Microsoft - Excel Basics (https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+Statistics: Khan Academy - Stats Intro (https://www.khanacademy.org/math/statistics-probability)","Datacamp - Intermediate SQL for Data Analysis (https://www.datacamp.com/courses/intermediate-sql)
+freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/learn-sql-for-analytics/)
+Coursera - Intermediate SQL Analysis (https://www.coursera.org/learn/data-analysis-sql)
+Udemy - SQL Analysis (https://www.udemy.com/course/intermediate-sql-for-data-analysis-no-installation-needed/)
+LinkedIn Learning - SQL for Data Science (https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-2021/the-need-for-sql-in-data-science?u=57121697)
+edX - SQL Data Analysis (https://www.edx.org/learn/data-science/ibm-sql-for-data-science)
+
+
+Additional Skills:
+Tableau: Tableau Public Training (https://www.tableau.com/learn/training)
+Joins: Coursera - SQL Joins (https://www.coursera.org/projects/sql-joins)","Udemy - Advanced SQL for Data Analysis (https://www.udemy.com/course/the-advanced-sql-course-2021/)
+Mode - Analytics SQL Tutorial (https://mode.com/sql-tutorial)
+freeCodeCamp - Advanced SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
+Udemy - Advanced SQL Data (https://www.udemy.com/course/advanced-sql-for-data-analysis/)
+edX - Advanced SQL for Data (https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)
+LinkedIn Learning - Advanced SQL Insights (https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889)
+
+
+Additional Skills:
+Python: Coursera - Python Basics (https://www.coursera.org/learn/python-basics)","Microsoft Technology Associate: Database Fundamentals
+freeCodeCamp Relational Database Certification
+Udemy SQL for Data Analysis Certificate","Oracle Database SQL Certified Associate
+IBM Data Analyst Professional Certificate
+Tableau Desktop Specialist","Data Analytics Professional
+Microsoft Certified: Data Analyst Associate
+Google Data Analytics Professional Certificate (Advanced Modules)","Sales Data Query Report
+Basic Aggregation Script
+Customer Data Extraction Tool","Sales Trend Analysis Report
+Customer Segmentation Query
+Multi-Table Data Dashboard","Predictive Sales Query Model
+Complex Data Aggregation Dashboard
+Time Series Data Analysis Script"
+SQL,Cloudbase Data Engineer,"Cloudbase Data Engineers use SQL to design, manage, and optimize data pipelines and databases in cloud environments (e.g., AWS, Azure, Google Cloud), ensuring scalable, secure, and efficient data storage and retrieval for analytics and applications.","Coursera - SQL for Data Engineering in the Cloud (https://www.coursera.org/learn/cloud-data-engineering-duke)
+freeCodeCamp - SQL Basics (https://www.freecodecamp.org/learn/relational-database/)
+Coursera - Intro to SQL for Cloud (https://www.coursera.org/projects/googlecloud-introduction-to-sql-for-bigquery-and-cloud-sql-dmxlm)
+Udemy - SQL Cloud Intro (https://www.udemy.com/course/introduction-to-azure-sql-database/)
+LinkedIn Learning - SQL Essentials (https://www.linkedin.com/learning/learning-sql-programming)
+edX - Intro to SQL for Cloud Data (https://www.edx.org/learn/data-engineering/pragmatic-ai-labs-cloud-data-engineering)
+
+
+Additional Skills:
+Cloud Basics: AWS - Cloud Practitioner Essentials (https://aws.amazon.com/training/classroom/aws-cloud-practitioner-essentials/)
+Python: Coursera - Python Basics (https://www.coursera.org/learn/python-basics)","Udemy - Intermediate SQL for Cloud Data Pipelines (https://www.udemy.com/course/sql-for-data-engineers-designing-and-building-data-pipelines/)
+freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/learn-sql-for-analytics/)
+Coursera - Intermediate SQL for Cloud (https://www.coursera.org/learn/sql-data-science)
+Udemy - SQL Cloud Pipelines (https://www.udemy.com/course/snowflake-101-build-design-data-pipelines-on-aws-cloud/)
+LinkedIn Learning - SQL for Data Engineering (https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=57121697)
+edX - SQL for Cloud Pipelines (https://www.edx.org/learn/cloud-computing/google-cloud-building-batch-data-pipelines-on-google-cloud)
+
+
+Additional Skills:
+ETL Processes: Coursera - ETL Basics (https://www.coursera.org/learn/extract-transform-and-load-data)
+Azure Data Fundamentals: Microsoft - Azure Data Intro (https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)","Google - Advanced Cloud Data Engineering with SQL (https://cloud.google.com/learn/training/data-engineering-and-analytics)
+Coursera - Advanced SQL for Cloud (https://www.coursera.org/learn/advanced-data-engineering)
+freeCodeCamp - Advanced SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
+Udemy - Advanced SQL Cloud (https://www.udemy.com/course/advanced-sql-for-data-engineering/)
+edX - Advanced SQL for Cloud Eng (https://www.edx.org/learn/big-data/the-university-of-california-san-diego-big-data-analytics-using-spark)
+LinkedIn Learning - Advanced SQL for Cloud (https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=57121697)
+
+
+Additional Skills:
+Apache Spark: edX - Spark Intro (https://www.edx.org/learn/apache-spark)","Microsoft Certified: Azure Data Fundamentals
+AWS Certified Cloud Practitioner
+Google Cloud Digital Leader","AWS Certified Data Analytics Specialty
+Microsoft Certified: Azure Data Fundamentals
+Google Cloud Associate Cloud Engineer","Google Professional Data Engineer
+Microsoft Certified: Azure Data Engineer Associate
+AWS Certified Data Analytics - Specialty","Simple Cloud Table Creation with SQL
+Basic Data Upload to Cloud Storage
+Query Tool for Cloud Data Retrieva","Cloud-Based ETL Pipeline
+Multi-Table Query Optimization in Cloud
+Data Migration to Cloud Database","Scalable Cloud Data Warehouse
+Real-Time Data Streaming Pipeline
+High-Availability Cloud Data Solution"
+SQL,Cybersecurity Analyst,"Cybersecurity Analysts use SQL to query and analyze security data in databases, identify threats, monitor access logs, and ensure data integrity and compliance with security standards.","Coursera - SQL for Cybersecurity (https://www.coursera.org/learn/linux-and-sql)
+freeCodeCamp - SQL Basics (https://www.freecodecamp.org/learn/relational-database/)
+Coursera - Intro to SQL for Security (https://www.coursera.org/professional-certificates/google-cybersecurity)
+Udemy - SQL Security Intro (https://www.udemy.com/course/web-application-security-sql-injection/)
+LinkedIn Learning - SQL Essentials (https://www.linkedin.com/learning/learning-sql-programming)
+edX - Intro to SQL for Cybersecurity (https://www.edx.org/learn/sql/davidson-college-introduction-to-sql)
+
+
+Additional Skills:
+Cybersecurity Basics: Cybrary - Intro to Cybersecurity (https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/linux-fundamentals)","Udemy - Intermediate SQL for Cybersecurity Analysis (https://www.coursera.org/learn/codio-sql-for-security-specialist)
+freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/learn-sql-for-analytics/)
+Coursera - Intermediate SQL Security (https://www.udemy.com/course/web-application-security-sql-injection/)
+Udemy - SQL Cybersecurity (https://www.udemy.com/course/web-application-security-sql-injection/)
+LinkedIn Learning - SQL for Security (https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=57121697)
+edX - SQL for Security Analysis (https://www.edx.org/learn/sql/davidson-college-introduction-to-sql)
+
+
+Additional Skills:
+Network Security: Khan Academy - Network Security Intro (https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:cyber-attacks/v/the-internet-cybersecurity-and-crime)
+Python: Coursera - Python Basics (https://www.coursera.org/specializations/python)","Pluralsight - Advanced SQL for Cybersecurity (https://www.pluralsight.com/courses/sql-server-securing-applications)
+Coursera - Advanced SQL Security (https://www.coursera.org/learn/certified-ethical-hacking-v12-advanced-cybersecurity)
+freeCodeCamp - Advanced SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
+Udemy - Advanced SQL Security (https://www.udemy.com/course/sql-server-security-best-practices/)
+edX - Advanced SQL for Cybersecurity (https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)
+LinkedIn Learning - Advanced SQL Security (https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=57121697)
+
+
+Additional Skills:
+SIEM Tools: Splunk - Fundamentals (https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)","Microsoft Technology Associate: Database Fundamentals
+CompTIA Security+
+Certified Ethical Hacker (CEH) - Beginner Modules","CompTIA Cybersecurity Analyst (CySA+)
+Certified Information Systems Security Professional (CISSP) - Associate Level
+Microsoft Certified: Azure Security Engineer Associate (Intermediate Modules)","Certified Information Systems Security Professional (CISSP)
+GIAC Security Essentials (GSEC)
+Microsoft Certified: Azure Security Engineer Associate","Basic Security Log Query
+User Access Report Script
+Simple Data Integrity Check","Threat Detection Query System
+Audit Log Analysis Dashboard
+SQL Injection Vulnerability Test","Real-Time Threat Monitoring System
+Automated Compliance Reporting Tool
+Advanced Database Encryption Pipeline"
