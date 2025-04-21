@@ -32,12 +32,15 @@ const ExplorePage = () => {
 
   const handleSubmit = async () => {
     if (!language || !experience) return;
+
     try {
       setLoading(true);
-      const response = await api.getCareerRecommendation(language.value, experience.value);
-      setCareerData(response.details);
-      setSelectedCareer(null);
       setError('');
+      setSelectedCareer(null);     // ✅ reset previous selection
+      setCareerData(null);         // ✅ temporarily clear data to force reload
+
+      const response = await api.getCareerRecommendation(language.value, experience.value);
+      setCareerData(response.details);  // ✅ update with fresh data
     } catch (err: any) {
       console.error(err);
       setCareerData(null);
@@ -100,6 +103,7 @@ const ExplorePage = () => {
           <div className="mt-10 space-y-10">
             <CareerGraph
               data={careerData}
+              experienceLevel={experience.value}
               onSelectCareer={(careerName) => setSelectedCareer(careerName)}
             />
 

@@ -40,7 +40,7 @@ const CareerDetailsBox = ({ data, experienceLevel }: Props) => {
           <Rocket className="text-indigo-500" />
           Your Mission:
           <span className="inline-flex items-center gap-2 px-4 py-1 bg-gradient-to-r from-purple-500 to-indigo-500 text-white rounded-full shadow-md text-lg font-semibold transition hover:scale-105 hover:shadow-xl">
-            {data.career}
+            {data.career} • {experienceLevel}
           </span>
         </h2>
         <p className="text-gray-700 text-lg leading-relaxed tracking-wide font-medium">
@@ -78,11 +78,16 @@ const CareerDetailsBox = ({ data, experienceLevel }: Props) => {
           <FileCode2 /> Step 3: Build & Show Off
         </h3>
         <p className="text-gray-600 text-sm mb-2">Projects that demonstrate your potential in action — great for portfolios and interviews.</p>
-        <ul className="list-disc ml-6 space-y-1 text-gray-800 text-[0.95rem] font-medium">
+        <div className="flex flex-wrap gap-3 mt-2">
           {data.projects[level].map((proj, i) => (
-            <li key={i}>{proj}</li>
+            <span
+              key={i}
+              className="bg-indigo-100 text-indigo-800 px-4 py-2 rounded-full shadow-sm text-sm font-medium"
+            >
+              💡 {proj}
+            </span>
           ))}
-        </ul>
+        </div>
       </section>
     </div>
   );

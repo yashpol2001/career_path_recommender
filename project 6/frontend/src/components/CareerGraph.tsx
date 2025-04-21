@@ -1,93 +1,87 @@
-// src/components/CareerGraph.tsx
-import React, { useCallback } from 'react';
-import ReactFlow, {
-  Background,
-  Controls,
-  MiniMap,
-  Node,
-  Edge,
-  useNodesState,
-  useEdgesState,
-  addEdge,
-  MarkerType,
-} from 'reactflow';
-import 'reactflow/dist/style.css';
+import React from 'react';
+import { motion } from 'framer-motion';
 import { RecommendationDetails } from '../types';
 
 interface Props {
   data: RecommendationDetails[];
   onSelectCareer: (careerName: string) => void;
+  experienceLevel: string;
 }
 
+const NODE_WIDTH = 160;
+const NODE_HEIGHT = 60;
+const spacingX = 180;
+const startY = 60;
+const COLORS = ['#fca5a5', '#fde68a', '#a5f3fc', '#c4b5fd', '#bbf7d0', '#fdba74'];
+
 const CareerGraph: React.FC<Props> = ({ data, onSelectCareer }) => {
-  const rootId = 'root';
-  const rootNode: Node = {
-    id: rootId,
-    data: { label: 'Career Paths' },
-    position: { x: 0, y: 0 },
-    type: 'default',
-    style: {
-      background: '#4F46E5',
-      color: '#fff',
-      borderRadius: 12,
-      padding: 10,
-      fontWeight: 600,
-    },
-  };
-
-  const childNodes: Node[] = data.map((item, index) => ({
-    id: item.career,
-    data: { label: item.career },
-    position: { x: 300, y: index * 100 },
-    style: {
-      background: '#10B981',
-      color: '#fff',
-      borderRadius: 10,
-      padding: 10,
-      cursor: 'pointer',
-      boxShadow: '0 0 10px rgba(16,185,129,0.6)',
-      fontWeight: 600,
-    },
-  }));
-
-  const edges: Edge[] = data.map((item) => ({
-    id: `edge-${item.career}`,
-    source: rootId,
-    target: item.career,
-    animated: true,
-    type: 'default',
-    markerEnd: {
-      type: MarkerType.ArrowClosed,
-    },
-    style: {
-      stroke: '#a855f7',
-      strokeWidth: 2,
-    },
-  }));
-
-  const [nodes, , onNodesChange] = useNodesState([rootNode, ...childNodes]);
-  const [edgesState, , onEdgesChange] = useEdgesState(edges);
-
-  const handleNodeClick = useCallback((event: React.MouseEvent, node: Node) => {
-    if (node.id !== rootId) {
-      onSelectCareer(node.id);
-    }
-  }, [onSelectCareer]);
+  const nodes = data.slice(0, 6); // max 6 for balance
+  const treeWidth = (nodes.length - 1) * spacingX + NODE_WIDTH;
+  const rootX = treeWidth / 2;
+  const childY = startY + 140;
 
   return (
-    <div className="w-full h-[500px] bg-gradient-to-b from-indigo-100 to-purple-100 rounded-2xl border shadow-xl p-2">
-      <ReactFlow
-        nodes={nodes}
-        edges={edgesState}
-        onNodesChange={onNodesChange}
-        onEdgesChange={onEdgesChange}
-        onNodeClick={handleNodeClick}
-        fitView
-      >
-        <Background gap={16} color="#d9d9d9" />
-        <Controls />
-        <MiniMap />
-      </ReactFlow>
+    <div className="relative w-full overflow-x-auto bg-gradient-to-br from-indigo-50 to-purple-50 rounded-2xl shadow-xl py-12">
+      <div className="min-w-[640px] mx-auto relative" style={{ width: `${treeWidth}px`, height: `${childY + NODE_HEIGHT + 60}px` }}>
+        {/* Root Node */}
+        <motion.div
+          className="absolute z-10 bg-indigo-600 text-white font-bold px-6 py-3 rounded-full shadow-lg text-sm text-center"
+          style={{
+            top: startY,
+            left: rootX - NODE_WIDTH / 2,
+            width: NODE_WIDTH,
+          }}
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+        >
+          You 🌱
+        </motion.div>
+
+        {/* SVG Connectors */}
+        <svg className="absolute top-0 left-0 w-full h-full pointer-events-none z-0">
+          {nodes.map((_, i) => {
+            const childX = i * spacingX + NODE_WIDTH / 2;
+            return (
+              <path
+                key={i}
+                d={`M ${rootX} ${startY + NODE_HEIGHT} C ${rootX} ${startY + 90}, ${childX} ${childY - 50}, ${childX} ${childY}`}
+                stroke="#a78bfa"
+                strokeWidth="2"
+                fill="none"
+              />
+            );
+          })}
+        </svg>
+
+        {/* Child Nodes */}
+        {nodes.map((role, i) => {
+          const x = i * spacingX;
+          return (
+            <motion.div
+              key={role.career}
+              onClick={() => onSelectCareer(role.career)}
+              className="absolute rounded-xl cursor-pointer text-sm font-semibold text-center shadow-md hover:shadow-xl border-2"
+              style={{
+                width: NODE_WIDTH,
+                height: NODE_HEIGHT,
+                top: childY,
+                left: x,
+                backgroundColor: COLORS[i % COLORS.length],
+                borderColor: '#a78bfa',
+                boxShadow: `0 0 10px ${COLORS[i % COLORS.length]}`,
+              }}
+              whileHover={{ scale: 1.05 }}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: i * 0.1 }}
+            >
+              <div className="flex items-center justify-center h-full px-2">
+                {role.career}
+              </div>
+            </motion.div>
+          );
+        })}
+      </div>
     </div>
   );
 };

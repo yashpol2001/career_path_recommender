@@ -1,6 +1,6 @@
 ﻿Programming Language,Career Path,Description,Beginner Courses,Intermediate Courses,Advanced Courses,Beginner Recommended Certifications,Intermediate Recommended Certifications,Advanced Recommended Certifications,Beginner Recommended Projects,Intermediate Recommended Projects,Advance Recommended Projects
 Python,Data Scientist,"Data Scientists leverage data to extract insights, build predictive models, and solve complex business problems using statistical analysis, machine learning, and data visualization. They require proficiency in programming, mathematics, and domain-specific knowledge to interpret large datasets and drive decision-making.","Datacamp - Python for Data Science Fundamentals (https://www.datacamp.com/courses/intro-to-python-for-data-science)
-Coursera - Python for Data Analysis and Visualization (https://www.coursera.org/learn/python-data-analysis-visualization)
+Coursera - Python Crash Course (https://www.coursera.org/learn/python-crash-course)
 freeCodeCamp - Data Analysis with Python (https://www.freecodecamp.org/learn/data-analysis-with-python/)
 Udemy - Python for Data Science and Machine Learning (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 LinkedIn Learning - Python Essentials (https://www.linkedin.com/learning/python-essential-training-2018)
@@ -47,7 +47,7 @@ Udemy - Python Web Programming (https://www.udemy.com/course/python-web-programm
 freeCodeCamp - Python Web Dev Basics (https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 Coursera - Web Development with Python (https://www.coursera.org/learn/microsoft-web-development-with-python)
 Udemy - Python Web Intro (https://www.udemy.com/course/the-python-mega-course/)
-LinkedIn Learning - Web Dev Essentials (https://www.linkedin.com/learning/python-for-web-development)
+LinkedIn Learning - Python - Hands on Web Development (https://www.linkedin.com/learning/skill-up-with-python-hands-on-web-development-projects/skill-up-with-python-introduction?u=57121697)
 edX - Intro to Web Dev (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
 
@@ -432,8 +432,9 @@ C,Embedded Systems Engineer,"Embedded Systems Engineers use C to develop softwar
 YouTube - C Basics (https://www.youtube.com/watch?v=KJgsSFOSQv0)
 Coursera - Intro to C (https://www.coursera.org/learn/c-for-everyone)
 Udemy - C for Beginners (https://www.udemy.com/course/c-programming-for-beginners/)
-LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/learning-c)
-edX - Intro to C Programming (https://www.edx.org/course/introduction-to-c-programming)
+LinkedIn Learning - C Programming Foundations (https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=57121697)
+edX - C Programming Fundamentals
+(https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-language-foundations)
 
 
 Additional Skills:
@@ -474,7 +475,7 @@ C,Game Developer,"Game Developers using C (now C++ / C# are more commonly used) 
 YouTube - C Basics (https://www.youtube.com/watch?v=KJgsSFOSQv0)
 Coursera - Intro to C and C++ (https://www.coursera.org/specializations/coding-for-everyone)
 Udemy - C++ Game Intro (https://www.udemy.com/course/learn-cpp-for-ue4-unit-1/)
-LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/learning-c)
+LinkedIn Learning - C Programming Foundations (https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=57121697)
 edX - Intro to Game Dev with C (https://www.edx.org/learn/game-design/massachusetts-institute-of-technology-introduction-to-game-design)
 
 
@@ -558,8 +559,8 @@ C,Software Engineer,"Software Engineers using C develop efficient, high-performa
 freeCodeCamp - C Basics (https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 Coursera - Intro to C (https://www.coursera.org/learn/c-for-everyone)
 Udemy - C for Beginners (https://www.udemy.com/course/c-programming-for-beginners/)
-LinkedIn Learning - C Essentials (https://www.linkedin.com/learning/learning-c)
-edX - Intro to C Programming (https://www.edx.org/course/introduction-to-c-programming)
+LinkedIn Learning - C Programming Foundations (https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=57121697)edX - C Programming Fundamentals
+(https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-language-foundations)
 
 
 Additional Skills:
@@ -858,9 +859,10 @@ edX - Intro to SQL (https://www.edx.org/course/introduction-to-sql)
 
 Additional Skills:
 Database Design: Coursera - DB Design Basics (https://www.coursera.org/learn/database-design-postgresql)
-Linux: Coursera - Linux Basics (https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)","Udemy - Database Administration with SQL (https://www.udemy.com/course/sql-server-dba/)
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)","Udemy - Guide for SQL Server DBA (https://www.udemy.com/course/the-ultimate-guide-in-becoming-a-sql-server-dba/?srsltid=AfmBOoqkLreZqkSy-bB2znNtfhVQVFH4DTXKfs0xkPcV06ErU0elvuvk)
 freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
-Coursera - Intermediate SQL DBA (https://www.coursera.org/learn/relational-database-administration)
+Coursera - Intermediate SQL DBA
+(https://www.coursera.org/learn/relational-database-administration)
 Udemy - SQL DBA (https://www.udemy.com/course/database-sql-z/)
 LinkedIn Learning - SQL for DBAs (https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=57121697)
 edX - SQL for DB Management (https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)
@@ -955,7 +957,8 @@ Tableau: Tableau Public Training (https://www.tableau.com/learn/training)
 Joins: Coursera - SQL Joins (https://www.coursera.org/projects/sql-joins)","Udemy - Advanced SQL for Data Analysis (https://www.udemy.com/course/the-advanced-sql-course-2021/)
 Mode - Analytics SQL Tutorial (https://mode.com/sql-tutorial)
 freeCodeCamp - Advanced SQL (https://www.freecodecamp.org/news/advanced-sql-techniques/)
-Udemy - Advanced SQL Data (https://www.udemy.com/course/advanced-sql-for-data-analysis/)
+Udemy - Advanced SQL Data
+(https://www.udemy.com/course/the-advanced-sql-course-2021/?srsltid=AfmBOoqpqGaqDRkea-JhOFO8B9it8QkBTEKRL_msGwlaB7U_QJRgp-S-)
 edX - Advanced SQL for Data (https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)
 LinkedIn Learning - Advanced SQL Insights (https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889)
 
@@ -1026,7 +1029,7 @@ edX - Intro to SQL for Cybersecurity (https://www.edx.org/learn/sql/davidson-col
 
 Additional Skills:
 Cybersecurity Basics: Cybrary - Intro to Cybersecurity (https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
-Linux: Coursera - Linux Basics (https://www.coursera.org/learn/linux-fundamentals)","Udemy - Intermediate SQL for Cybersecurity Analysis (https://www.coursera.org/learn/codio-sql-for-security-specialist)
+Linux: Coursera - Linux Basics (https://www.coursera.org/learn/linux-fundamentals)","Coursera - Intermediate SQL for Cybersecurity Analysis (https://www.coursera.org/learn/codio-sql-for-security-specialist)
 freeCodeCamp - Intermediate SQL (https://www.freecodecamp.org/news/learn-sql-for-analytics/)
 Coursera - Intermediate SQL Security (https://www.udemy.com/course/web-application-security-sql-injection/)
 Udemy - SQL Cybersecurity (https://www.udemy.com/course/web-application-security-sql-injection/)
