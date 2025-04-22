@@ -19,7 +19,7 @@ const AiGeminiChatWidget = () => {
     setLoading(true);
 
     try {
-      const response = await axios.post('http://localhost:8000/gemini-chat', {
+      const response = await axios.post('https://career-path-backend-oac1.onrender.com/gemini-chat', {
         question: input
       });
       const aiMessage = { from: 'ai', text: response.data.answer, time: formatTime() };
