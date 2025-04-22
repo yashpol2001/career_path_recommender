@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import tempfile
 
 load_dotenv()
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+genai.configure(api_key=os.getenv(" AIzaSyDHzu4UR5JUNR-QIDmP95tLBl08CDLLht8"))
 
 from PyPDF2 import PdfReader
 
