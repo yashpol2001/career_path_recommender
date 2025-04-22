@@ -5,5 +5,9 @@ python-dotenv==1.0.1
 pydantic==2.6.3
 typing-extensions
 google-generativeai
+<<<<<<< HEAD:project 12/backend/requirements.txt
 python-multipart
 PyPDF2
+=======
+
+>>>>>>> b8f6fcac0884ec36400ed610d64af40ea0b9034c:project 10/backend/requirements.txt
