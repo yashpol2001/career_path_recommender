@@ -6,10 +6,11 @@ import { Menu } from 'lucide-react';
 const navItems = [
   { name: 'Home', path: '/' },
   { name: 'Explore', path: '/explore' },
+  { name: 'AI Tools', path: '/ai-tools' },
   { name: 'About', path: '/about' },
 ];
 
-export const Navbar = () => {
+const Navbar = () => {
   const location = useLocation();
 
   return (
@@ -36,3 +37,5 @@ export const Navbar = () => {
     </header>
   );
 };
+
+export default Navbar;

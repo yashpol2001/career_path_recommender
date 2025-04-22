@@ -5,6 +5,9 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from gemini_chat import router as gemini_router
+from resume_analyzer import router as resume_router
+from learning_plan_generator import router as plan_router
+
 
 load_dotenv()
 
@@ -22,6 +25,11 @@ app.add_middleware(
 )
 
 app.include_router(gemini_router)
+
+app.include_router(resume_router)
+
+app.include_router(plan_router)
+
 
 try:
     df = pd.read_csv(CSV_PATH)
