@@ -2,7 +2,7 @@ import axios from 'axios';
 import { ApiResponse } from './types';
 
 // ✅ Load from .env (defined as VITE_API_URL)
-const API_URL = import.meta.env.VITE_API_URL || 'https://career-explorer-backend.onrender.com';
+const API_URL = import.meta.env.VITE_API_URL || 'https://career-path-backend-oac1.onrender.com';
 console.log("Calling API:", API_URL);
 
 export const api = {
