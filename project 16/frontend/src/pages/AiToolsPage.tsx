@@ -18,7 +18,7 @@ const AiToolsPage = () => {
   const handleResumeAnalyze = async () => {
     setLoading(true);
     try {
-      const res = await axios.post('http://localhost:8000/ai-tools/resume-analyzer', { resume_text: resumeText });
+      const res = await axios.post('https://career-path-backend-oac1.onrender.com/ai-tools/resume-analyzer', { resume_text: resumeText });
       setResumeResult(res.data);
     } catch {
       alert('Failed to analyze resume');
@@ -29,7 +29,7 @@ const AiToolsPage = () => {
   const handleLearningPathGenerate = async () => {
     setLoading(true);
     try {
-      const res = await axios.post('http://localhost:8000/ai-tools/learning-path-generator', {
+      const res = await axios.post('https://career-path-backend-oac1.onrender.com/ai-tools/learning-path-generator', {
         interest: selectedInterest,
         known_languages: selectedLanguages,
         goal: selectedGoal
@@ -47,7 +47,7 @@ const AiToolsPage = () => {
     const formData = new FormData();
     formData.append("file", file);
     try {
-      const res = await axios.post("http://localhost:8000/ai-tools/resume-upload", formData, {
+      const res = await axios.post("https://career-path-backend-oac1.onrender.com/ai-tools/resume-upload", formData, {
         headers: { "Content-Type": "multipart/form-data" }
       });
       setResumeText(res.data.extracted_text);
