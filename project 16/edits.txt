@@ -1,0 +1,4 @@
+Added reset button and icons to explore and Reset , auto scroll corrected,
+Added ai chat bot , gemini ai 
+, chat bot updated 
+Ai tools upgraded 
