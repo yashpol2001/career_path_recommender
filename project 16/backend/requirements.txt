@@ -6,4 +6,5 @@ pydantic==2.6.3
 typing-extensions
 google-generativeai
 python-multipart
+python-docx
 aiofiles
