@@ -85,7 +85,7 @@ const AiGeminiChatWidget = () => {
     setShowSuggestions(false);
 
     try {
-      const response = await axios.post('http://localhost:8000/gemini-chat', { question: text });
+      const response = await axios.post('https://career-path-backend-oac1.onrender.com/gemini-chat', { question: text });
       let aiResponse = response.data.answer;
       if (!aiResponse || typeof aiResponse !== 'string') {
         throw new Error('Invalid response from AI.');
