@@ -3,6 +3,8 @@ import React, { useState, useEffect } from 'react';
 import { ExperienceLevel, RecommendationDetails } from '../types';
 import CareerDetailsBox from '../components/CareerDetailsBox';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
+
 
 const EXPERIENCE_LEVELS: ExperienceLevel[] = ['Beginner', 'Intermediate', 'Advanced'];
 
@@ -168,12 +170,12 @@ const CareerFlow = () => {
           <>
             <CareerDetailsBox data={roadmapData} experienceLevel={experience} />
             <div className="text-center mt-8">
-              <a
-                href="/explore"
+              <Link
+                to="/explore"
                 className="inline-block px-6 py-3 bg-purple-600 text-white font-semibold rounded-full shadow hover:bg-purple-700 transition"
               >
                 🔍 Learn More & Try Custom Explorer
-              </a>
+              </Link>
               <div className="mt-6">
                 <button
                   onClick={() => setExperience(null)}
